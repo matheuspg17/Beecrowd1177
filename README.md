@@ -1,7 +1,7 @@
 # Resolução exercício Beecrowd1177
 
 ## Descrição de problema
-Leia um valor X. Coloque este valor na primeira posição de um vetor N[100]. Em cada posição subsequente de N (1 até 99), coloque a metade do valor armazenado na posição anterior, conforme o exemplo abaixo. Imprima o vetor N.
+Faça um programa que leia um valor T e preencha um vetor N[1000] com a sequência de valores de 0 até T-1 repetidas vezes, conforme exemplo abaixo. Imprima o vetor N.
 
 ## Como Funciona
 1. **Entrada de Dados:**
